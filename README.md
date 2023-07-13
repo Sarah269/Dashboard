@@ -18,4 +18,7 @@ Dealership Sales Dashboard. Tool:  Tableau
 
 Branch YTD Sales Dashboard.  Tool:  Google Sheets
 - https://docs.google.com/spreadsheets/d/e/2PACX-1vRjj9Mv5vCFbbKkD-DYKabCU-AoHGglnQuWbbGXN3Yz01cUOHcnP0f3eBwcA_9j2nlKmk_9GfhrA1zx/pubhtml?gid=529888975&single=true
+
+Car Dealership Dashboard II.  Tool:  Tableau
+- https://public.tableau.com/views/CarsII/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
   
