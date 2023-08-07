@@ -1,12 +1,6 @@
 # Dashboard
 This repository contains dashboards
 
-Beijing 2008 Summer Olympics Dashboard.  Tool:  Google Sheets
-- https://docs.google.com/spreadsheets/d/e/2PACX-1vScanjk8mnGe3YtY7f1A2N_IT7hExvzLxU7XTkqnoWtmKatz6SerUuaPFQ9BR5uI1YrlOU8sTFLyRhm/pubhtml?gid=1143705166&single=true
-  
-COVID-19 US Data.  Tool:  Tableau
-- https://public.tableau.com/views/Sample_16857372916990/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
-
 ABC Profit Summary (1999-2002).  Tool:  Tableau
 - https://public.tableau.com/views/ABCSalesDashboard_16862726690540/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
 
